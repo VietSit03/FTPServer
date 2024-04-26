@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1647971288 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\cli.cpp
+	<iostream>
+	<sstream>
+	"cli.h"
+
+1647552658 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\cli.h
+	<string>
+
+1700787411 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\main.cpp
+	"ftpcliv1.h"
+	<iostream>
+
+1647611920 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1647611916 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\socket.h
+	<string>
+	<exception>
+
+1650552376 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1650552350 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\tcpclient.h
+	"tcpsocket.h"
+
+1648487334 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\tcpsocket.h
+	"socket.h"
+
+1648487744 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+
+1700883950 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\ftpclientv1.cpp
+	"ftpclientv1.h"
+	<iostream>
+	<fstream>
+	<Windows.h>
+	<sstream>
+
+1700883350 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\ftpclientv1.h
+	"tcpclient.h"
+	<vector>
+
+1700883978 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\ftpcliv1.cpp
+	"ftpcliv1.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1700883369 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\fptclientv1\ftpcliv1.h
+	"cli.h"
+	"tcpsocket.h"
+	"ftpclientv1.h"
+
+1702971161 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\untitled1.c
+
+1647971288 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\cli.cpp
+	<iostream>
+	<sstream>
+	"cli.h"
+
+1647552658 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\cli.h
+	<string>
+
+1703129453 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\ftpclientv1.cpp
+	"ftpclientv1.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	<Windows.h>
+	<sstream>
+
+1703101786 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\ftpclientv1.h
+	"tcpclient.h"
+	<vector>
+
+1650552350 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\tcpclient.h
+	"tcpsocket.h"
+
+1648487334 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\tcpsocket.h
+	"socket.h"
+
+1647611916 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\socket.h
+	<string>
+	<exception>
+
+1703129530 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\ftpcliv1.cpp
+	"ftpcliv1.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1700883369 c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\ftpcliv1.h
+	"cli.h"
+	"tcpsocket.h"
+	"ftpclientv1.h"
+
+1700787411 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\main.cpp
+	"ftpcliv1.h"
+	<iostream>
+
+1647611920 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1650552376 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1648487744 source:c:\users\admin\documents\hoc\hoc ki 1 2023-2024\do an lap trinh he thong mang\ftpclientv1\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+
